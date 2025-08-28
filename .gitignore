@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Virtual environment directory
+venv/
+
+# Pycache files
+__pycache__/
+
+# Jupyter Notebook files
+*.ipynb_checkpoints/
+.ipynb_checkpoints
+
+# Temporary and log files
+*.log
+*.tmp
